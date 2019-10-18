@@ -16,7 +16,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US ko-KR"
+locale                   : "en-US"
 title                    : "Interesting Things"
 title_separator          : "-"
 subtitle                 : "재밌는 것들 모임"# site tagline that appears below site title in masthead
